@@ -1,6 +1,6 @@
 # Hexagonal Whishlist
 
-An accompanying repository to [this]() blog post.
+An accompanying repository to [this](https://aneshas.medium.com/hexagonal-architecture-in-go-58dd2386dea7) blog post.
 
 ## Disclaimer
 
