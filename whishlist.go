@@ -1,5 +1,5 @@
 // This is my hexagon. I don't care what's outside, in this folder or any
-// other for that matter. I don't care where this code is phisically located
+// other for that matter. I don't care where this code is physically located
 // as long as it is decoupled from any driving or driven adapter be it mock,
 // fake or any technology specific "real" implementation.
 package main
